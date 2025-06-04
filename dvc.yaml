@@ -1,0 +1,4 @@
+dvc init
+dvc add data/
+git add data.dvc .gitignore
+git commit -m "Add raw dataset"
