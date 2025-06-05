@@ -1,0 +1,4 @@
+epochs: 10
+imgsz: 224
+batch: 32
+model_name: yolov8n-cls.pt
