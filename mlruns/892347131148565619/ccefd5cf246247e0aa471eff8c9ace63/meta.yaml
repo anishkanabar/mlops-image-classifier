@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TNEL/Documents/GitHub/mlops-image-classifier/mlruns/892347131148565619/ccefd5cf246247e0aa471eff8c9ace63/artifacts
+end_time: 1749233049241
+entry_point_name: ''
+experiment_id: '892347131148565619'
+lifecycle_stage: active
+run_id: ccefd5cf246247e0aa471eff8c9ace63
+run_name: wistful-sponge-78
+run_uuid: ccefd5cf246247e0aa471eff8c9ace63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749233035838
+status: 4
+tags: []
+user_id: TNEL

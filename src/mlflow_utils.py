@@ -1,7 +1,6 @@
 import mlflow
 from pathlib import Path
 
-
 def init_mlflow(experiment_name: str = "YOLOv8-Classifier"):
     mlruns_path = Path("mlruns")
     mlruns_path.mkdir(parents=True, exist_ok=True)  # Create folder if missing

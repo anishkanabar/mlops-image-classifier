@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TNEL/Documents/GitHub/mlops-image-classifier/mlruns/892347131148565619/5c08eb18e2504d959d6431ad0116fd0a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '892347131148565619'
+lifecycle_stage: active
+run_id: 5c08eb18e2504d959d6431ad0116fd0a
+run_name: judicious-eel-915
+run_uuid: 5c08eb18e2504d959d6431ad0116fd0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749232574809
+status: 1
+tags: []
+user_id: TNEL

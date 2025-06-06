@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TNEL/Documents/GitHub/mlops-image-classifier/mlruns/892347131148565619/d248100ccdf144fd9f5938bfbbc47ded/artifacts
+end_time: 1749232513095
+entry_point_name: ''
+experiment_id: '892347131148565619'
+lifecycle_stage: active
+run_id: d248100ccdf144fd9f5938bfbbc47ded
+run_name: honorable-perch-12
+run_uuid: d248100ccdf144fd9f5938bfbbc47ded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749232513007
+status: 4
+tags: []
+user_id: TNEL

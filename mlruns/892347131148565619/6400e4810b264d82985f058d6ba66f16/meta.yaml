@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TNEL/Documents/GitHub/mlops-image-classifier/mlruns/892347131148565619/6400e4810b264d82985f058d6ba66f16/artifacts
+end_time: 1749233452206
+entry_point_name: ''
+experiment_id: '892347131148565619'
+lifecycle_stage: active
+run_id: 6400e4810b264d82985f058d6ba66f16
+run_name: zealous-bee-985
+run_uuid: 6400e4810b264d82985f058d6ba66f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749233442615
+status: 3
+tags: []
+user_id: TNEL

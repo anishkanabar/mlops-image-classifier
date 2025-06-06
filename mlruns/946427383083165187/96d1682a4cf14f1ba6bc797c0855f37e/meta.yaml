@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TNEL/Documents/GitHub/mlops-image-classifier/mlruns/946427383083165187/96d1682a4cf14f1ba6bc797c0855f37e/artifacts
+end_time: 1749233774670
+entry_point_name: ''
+experiment_id: '946427383083165187'
+lifecycle_stage: active
+run_id: 96d1682a4cf14f1ba6bc797c0855f37e
+run_name: glamorous-rook-892
+run_uuid: 96d1682a4cf14f1ba6bc797c0855f37e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749233774591
+status: 3
+tags: []
+user_id: TNEL

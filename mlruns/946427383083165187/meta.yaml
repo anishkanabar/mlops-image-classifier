@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/TNEL/Documents/GitHub/mlops-image-classifier/mlruns/946427383083165187
+creation_time: 1749233774419
+experiment_id: '946427383083165187'
+last_update_time: 1749233774419
+lifecycle_stage: active
+name: test-mlflow-utils
